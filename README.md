@@ -1,6 +1,6 @@
-# Boilerplate Todo -  React + TypeScript
+# Boilerplate To do -  React + TypeScript
 
-Boilerplate básico de um Todo feito com React e TypeScript.
+Boilerplate básico de um To do feito com React e TypeScript.
 
 ## Instalação
 
