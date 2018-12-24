@@ -8,17 +8,17 @@ Usando a linha comando do OS - Windows - Mac - Linux
 
 Clone este repositório:
 ```js
-git clone https://github.com/eduardokeneth/boilerplate-gerador-pdf
+git clone https://github.com/eduardokeneth/todo-typescript-react-webpack
 ```
 
-Execute um npm install para instalar as dependências do package.json
+Execute um npm/yarn install para instalar as dependências do package.json
 ```js
-npm install
+yarn install
 ```
 
-Rode npm run start:dev para rodar
+Rode npm/yarn run start:dev para rodar
 ```js
-npm run start:dev
+yarn run start:dev
 ```
 
 ### Configuração Webpack
